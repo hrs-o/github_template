@@ -1,7 +1,7 @@
 ---
 name: test
 about: Create a report to help us improve
-title: "【不具合】"
+title: '【不具合】'
 labels: ''
 assignees: ''
 
